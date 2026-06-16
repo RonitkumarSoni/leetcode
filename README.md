@@ -44,3 +44,15 @@ The solutions are organized beautifully into a single folder setup. Thanks to Gi
   <i>"Code is like humor. When you have to explain it, it’s bad."</i><br>
   <b>Happy Coding! 💻</b>
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0165-compare-version-numbers](https://github.com/RonitkumarSoni/leetcode/tree/main/0165-compare-version-numbers/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0165-compare-version-numbers](https://github.com/RonitkumarSoni/leetcode/tree/main/0165-compare-version-numbers/) | Medium |
+<!---LeetCode Topics End-->
