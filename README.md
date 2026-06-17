@@ -60,9 +60,14 @@ The solutions are organized beautifully into a single folder setup. Thanks to Gi
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1688-count-of-matches-in-tournament](https://github.com/RonitkumarSoni/leetcode/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/RonitkumarSoni/leetcode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0071-simplify-path](https://github.com/RonitkumarSoni/leetcode/tree/main/0071-simplify-path/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1688-count-of-matches-in-tournament](https://github.com/RonitkumarSoni/leetcode/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 <!---LeetCode Topics End-->
