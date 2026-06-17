@@ -54,10 +54,15 @@ The solutions are organized beautifully into a single folder setup. Thanks to Gi
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0071-simplify-path](https://github.com/RonitkumarSoni/leetcode/tree/main/0071-simplify-path/) | Medium |
 | [0165-compare-version-numbers](https://github.com/RonitkumarSoni/leetcode/tree/main/0165-compare-version-numbers/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/RonitkumarSoni/leetcode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3612-process-string-with-special-operations-i](https://github.com/RonitkumarSoni/leetcode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0071-simplify-path](https://github.com/RonitkumarSoni/leetcode/tree/main/0071-simplify-path/) | Medium |
 <!---LeetCode Topics End-->
