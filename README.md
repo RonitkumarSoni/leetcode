@@ -50,6 +50,7 @@ The solutions are organized beautifully into a single folder setup. Thanks to Gi
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/RonitkumarSoni/leetcode/tree/main/0015-3sum/) | Medium |
 | [0165-compare-version-numbers](https://github.com/RonitkumarSoni/leetcode/tree/main/0165-compare-version-numbers/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -70,4 +71,12 @@ The solutions are organized beautifully into a single folder setup. Thanks to Gi
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1688-count-of-matches-in-tournament](https://github.com/RonitkumarSoni/leetcode/tree/main/1688-count-of-matches-in-tournament/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0015-3sum](https://github.com/RonitkumarSoni/leetcode/tree/main/0015-3sum/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0015-3sum](https://github.com/RonitkumarSoni/leetcode/tree/main/0015-3sum/) | Medium |
 <!---LeetCode Topics End-->
