@@ -84,6 +84,7 @@ The solutions are organized beautifully into a single folder setup. Thanks to Gi
 | [0594-longest-harmonious-subsequence](https://github.com/RonitkumarSoni/leetcode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0896-monotonic-array](https://github.com/RonitkumarSoni/leetcode/tree/main/0896-monotonic-array/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/RonitkumarSoni/leetcode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
+| [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/RonitkumarSoni/leetcode/tree/main/2176-count-equal-and-divisible-pairs-in-an-array/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
