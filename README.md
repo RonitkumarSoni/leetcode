@@ -82,6 +82,7 @@ The solutions are organized beautifully into a single folder setup. Thanks to Gi
 | [0287-find-the-duplicate-number](https://github.com/RonitkumarSoni/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/RonitkumarSoni/leetcode/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/RonitkumarSoni/leetcode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
+| [0896-monotonic-array](https://github.com/RonitkumarSoni/leetcode/tree/main/0896-monotonic-array/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/RonitkumarSoni/leetcode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
