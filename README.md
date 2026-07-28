@@ -59,6 +59,7 @@ The solutions are organized beautifully into a single folder setup. Thanks to Gi
 | ------- | ------- |
 | [0071-simplify-path](https://github.com/RonitkumarSoni/leetcode/tree/main/0071-simplify-path/) | Medium |
 | [0165-compare-version-numbers](https://github.com/RonitkumarSoni/leetcode/tree/main/0165-compare-version-numbers/) | Medium |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/RonitkumarSoni/leetcode/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/RonitkumarSoni/leetcode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -75,6 +76,7 @@ The solutions are organized beautifully into a single folder setup. Thanks to Gi
 | ------- | ------- |
 | [1025-divisor-game](https://github.com/RonitkumarSoni/leetcode/tree/main/1025-divisor-game/) | Easy |
 | [1688-count-of-matches-in-tournament](https://github.com/RonitkumarSoni/leetcode/tree/main/1688-count-of-matches-in-tournament/) | Easy |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/RonitkumarSoni/leetcode/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
