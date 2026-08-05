@@ -53,6 +53,7 @@ The solutions are organized beautifully into a single folder setup. Thanks to Gi
 | [0015-3sum](https://github.com/RonitkumarSoni/leetcode/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/RonitkumarSoni/leetcode/tree/main/0016-3sum-closest/) | Medium |
 | [0143-reorder-list](https://github.com/RonitkumarSoni/leetcode/tree/main/0143-reorder-list/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/RonitkumarSoni/leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0165-compare-version-numbers](https://github.com/RonitkumarSoni/leetcode/tree/main/0165-compare-version-numbers/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/RonitkumarSoni/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0443-string-compression](https://github.com/RonitkumarSoni/leetcode/tree/main/0443-string-compression/) | Medium |
@@ -120,6 +121,7 @@ The solutions are organized beautifully into a single folder setup. Thanks to Gi
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/RonitkumarSoni/leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/RonitkumarSoni/leetcode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/RonitkumarSoni/leetcode/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Sliding Window
@@ -162,6 +164,7 @@ The solutions are organized beautifully into a single folder setup. Thanks to Gi
 | ------- | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/RonitkumarSoni/leetcode/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0143-reorder-list](https://github.com/RonitkumarSoni/leetcode/tree/main/0143-reorder-list/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/RonitkumarSoni/leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/RonitkumarSoni/leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/RonitkumarSoni/leetcode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0707-design-linked-list](https://github.com/RonitkumarSoni/leetcode/tree/main/0707-design-linked-list/) | Medium |
