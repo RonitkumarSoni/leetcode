@@ -168,6 +168,7 @@ The solutions are organized beautifully into a single folder setup. Thanks to Gi
 | [0177-nth-highest-salary](https://github.com/RonitkumarSoni/leetcode/tree/main/0177-nth-highest-salary/) | Medium |
 | [0182-duplicate-emails](https://github.com/RonitkumarSoni/leetcode/tree/main/0182-duplicate-emails/) | Easy |
 | [0183-customers-who-never-order](https://github.com/RonitkumarSoni/leetcode/tree/main/0183-customers-who-never-order/) | Easy |
+| [0196-delete-duplicate-emails](https://github.com/RonitkumarSoni/leetcode/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/RonitkumarSoni/leetcode/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
