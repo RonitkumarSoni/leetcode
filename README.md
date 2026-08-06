@@ -63,6 +63,7 @@ The solutions are organized beautifully into a single folder setup. Thanks to Gi
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0038-count-and-say](https://github.com/RonitkumarSoni/leetcode/tree/main/0038-count-and-say/) | Medium |
 | [0071-simplify-path](https://github.com/RonitkumarSoni/leetcode/tree/main/0071-simplify-path/) | Medium |
 | [0165-compare-version-numbers](https://github.com/RonitkumarSoni/leetcode/tree/main/0165-compare-version-numbers/) | Medium |
 | [0443-string-compression](https://github.com/RonitkumarSoni/leetcode/tree/main/0443-string-compression/) | Medium |
