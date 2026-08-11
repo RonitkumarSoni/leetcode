@@ -89,6 +89,7 @@ The solutions are organized beautifully into a single folder setup. Thanks to Gi
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/RonitkumarSoni/leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [1025-divisor-game](https://github.com/RonitkumarSoni/leetcode/tree/main/1025-divisor-game/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/RonitkumarSoni/leetcode/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1688-count-of-matches-in-tournament](https://github.com/RonitkumarSoni/leetcode/tree/main/1688-count-of-matches-in-tournament/) | Easy |
@@ -186,6 +187,7 @@ The solutions are organized beautifully into a single folder setup. Thanks to Gi
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/RonitkumarSoni/leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0024-swap-nodes-in-pairs](https://github.com/RonitkumarSoni/leetcode/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/RonitkumarSoni/leetcode/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0086-partition-list](https://github.com/RonitkumarSoni/leetcode/tree/main/0086-partition-list/) | Medium |
@@ -202,6 +204,7 @@ The solutions are organized beautifully into a single folder setup. Thanks to Gi
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/RonitkumarSoni/leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0024-swap-nodes-in-pairs](https://github.com/RonitkumarSoni/leetcode/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0143-reorder-list](https://github.com/RonitkumarSoni/leetcode/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/RonitkumarSoni/leetcode/tree/main/0206-reverse-linked-list/) | Easy |
