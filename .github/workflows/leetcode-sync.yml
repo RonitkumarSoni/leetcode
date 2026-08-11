@@ -3,7 +3,7 @@ name: LeetCode Sync
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 0 * * *" # Yeh daily raat ko automatically chalega
+    - cron: "0 0 * * *" 
 
 jobs:
   build:
@@ -16,4 +16,4 @@ jobs:
         github-token: ${{ github.token }}
         leetcode-csrf-token: ${{ secrets.LEETCODE_CSRF_TOKEN }}
         leetcode-session: ${{ secrets.LEETCODE_SESSION }}
-        destination-folder: Leetcode-Solutions # Is folder me saare answers aayenge
+        destination-folder: Leetcode-Solutions 
