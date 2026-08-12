@@ -184,6 +184,7 @@ The solutions are organized beautifully into a single folder setup. Thanks to Gi
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/RonitkumarSoni/leetcode/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
 | [0595-big-countries](https://github.com/RonitkumarSoni/leetcode/tree/main/0595-big-countries/) | Easy |
 | [0610-triangle-judgement](https://github.com/RonitkumarSoni/leetcode/tree/main/0610-triangle-judgement/) | Easy |
+| [0619-biggest-single-number](https://github.com/RonitkumarSoni/leetcode/tree/main/0619-biggest-single-number/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
