@@ -185,6 +185,7 @@ The solutions are organized beautifully into a single folder setup. Thanks to Gi
 | [0595-big-countries](https://github.com/RonitkumarSoni/leetcode/tree/main/0595-big-countries/) | Easy |
 | [0610-triangle-judgement](https://github.com/RonitkumarSoni/leetcode/tree/main/0610-triangle-judgement/) | Easy |
 | [0619-biggest-single-number](https://github.com/RonitkumarSoni/leetcode/tree/main/0619-biggest-single-number/) | Easy |
+| [1757-recyclable-and-low-fat-products](https://github.com/RonitkumarSoni/leetcode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
