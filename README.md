@@ -86,6 +86,7 @@ The solutions are organized beautifully into a single folder setup. Thanks to Gi
 | [0234-palindrome-linked-list](https://github.com/RonitkumarSoni/leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/RonitkumarSoni/leetcode/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/RonitkumarSoni/leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
+| [2487-remove-nodes-from-linked-list](https://github.com/RonitkumarSoni/leetcode/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -157,6 +158,7 @@ The solutions are organized beautifully into a single folder setup. Thanks to Gi
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/RonitkumarSoni/leetcode/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
+| [2487-remove-nodes-from-linked-list](https://github.com/RonitkumarSoni/leetcode/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -205,6 +207,7 @@ The solutions are organized beautifully into a single folder setup. Thanks to Gi
 | [0707-design-linked-list](https://github.com/RonitkumarSoni/leetcode/tree/main/0707-design-linked-list/) | Medium |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/RonitkumarSoni/leetcode/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/RonitkumarSoni/leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
+| [2487-remove-nodes-from-linked-list](https://github.com/RonitkumarSoni/leetcode/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/RonitkumarSoni/leetcode/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -214,6 +217,7 @@ The solutions are organized beautifully into a single folder setup. Thanks to Gi
 | [0143-reorder-list](https://github.com/RonitkumarSoni/leetcode/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/RonitkumarSoni/leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/RonitkumarSoni/leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
+| [2487-remove-nodes-from-linked-list](https://github.com/RonitkumarSoni/leetcode/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
