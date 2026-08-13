@@ -85,6 +85,7 @@ The solutions are organized beautifully into a single folder setup. Thanks to Gi
 | [0143-reorder-list](https://github.com/RonitkumarSoni/leetcode/tree/main/0143-reorder-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/RonitkumarSoni/leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/RonitkumarSoni/leetcode/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
+| [1019-next-greater-node-in-linked-list](https://github.com/RonitkumarSoni/leetcode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/RonitkumarSoni/leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/RonitkumarSoni/leetcode/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Math
@@ -107,6 +108,7 @@ The solutions are organized beautifully into a single folder setup. Thanks to Gi
 | [0594-longest-harmonious-subsequence](https://github.com/RonitkumarSoni/leetcode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/RonitkumarSoni/leetcode/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0896-monotonic-array](https://github.com/RonitkumarSoni/leetcode/tree/main/0896-monotonic-array/) | Easy |
+| [1019-next-greater-node-in-linked-list](https://github.com/RonitkumarSoni/leetcode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1313-decompress-run-length-encoded-list](https://github.com/RonitkumarSoni/leetcode/tree/main/1313-decompress-run-length-encoded-list/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/RonitkumarSoni/leetcode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/RonitkumarSoni/leetcode/tree/main/2176-count-equal-and-divisible-pairs-in-an-array/) | Easy |
@@ -158,6 +160,7 @@ The solutions are organized beautifully into a single folder setup. Thanks to Gi
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/RonitkumarSoni/leetcode/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
+| [1019-next-greater-node-in-linked-list](https://github.com/RonitkumarSoni/leetcode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/RonitkumarSoni/leetcode/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -206,6 +209,7 @@ The solutions are organized beautifully into a single folder setup. Thanks to Gi
 | [0234-palindrome-linked-list](https://github.com/RonitkumarSoni/leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/RonitkumarSoni/leetcode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0707-design-linked-list](https://github.com/RonitkumarSoni/leetcode/tree/main/0707-design-linked-list/) | Medium |
+| [1019-next-greater-node-in-linked-list](https://github.com/RonitkumarSoni/leetcode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/RonitkumarSoni/leetcode/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/RonitkumarSoni/leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/RonitkumarSoni/leetcode/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
