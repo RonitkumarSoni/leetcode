@@ -212,6 +212,7 @@ The solutions are organized beautifully into a single folder setup. Thanks to Gi
 | [0206-reverse-linked-list](https://github.com/RonitkumarSoni/leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/RonitkumarSoni/leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/RonitkumarSoni/leetcode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/RonitkumarSoni/leetcode/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0707-design-linked-list](https://github.com/RonitkumarSoni/leetcode/tree/main/0707-design-linked-list/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/RonitkumarSoni/leetcode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/RonitkumarSoni/leetcode/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
@@ -239,9 +240,14 @@ The solutions are organized beautifully into a single folder setup. Thanks to Gi
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/RonitkumarSoni/leetcode/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/RonitkumarSoni/leetcode/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/RonitkumarSoni/leetcode/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/RonitkumarSoni/leetcode/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 <!---LeetCode Topics End-->
