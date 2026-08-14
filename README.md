@@ -77,6 +77,7 @@ The solutions are organized beautifully into a single folder setup. Thanks to Gi
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1688-count-of-matches-in-tournament](https://github.com/RonitkumarSoni/leetcode/tree/main/1688-count-of-matches-in-tournament/) | Easy |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/RonitkumarSoni/leetcode/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/RonitkumarSoni/leetcode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -114,6 +115,7 @@ The solutions are organized beautifully into a single folder setup. Thanks to Gi
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/RonitkumarSoni/leetcode/tree/main/2176-count-equal-and-divisible-pairs-in-an-array/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/RonitkumarSoni/leetcode/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/RonitkumarSoni/leetcode/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/RonitkumarSoni/leetcode/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -143,6 +145,7 @@ The solutions are organized beautifully into a single folder setup. Thanks to Gi
 | [0599-minimum-index-sum-of-two-lists](https://github.com/RonitkumarSoni/leetcode/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/RonitkumarSoni/leetcode/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/RonitkumarSoni/leetcode/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/RonitkumarSoni/leetcode/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -214,6 +217,7 @@ The solutions are organized beautifully into a single folder setup. Thanks to Gi
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/RonitkumarSoni/leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/RonitkumarSoni/leetcode/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/RonitkumarSoni/leetcode/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/RonitkumarSoni/leetcode/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -227,4 +231,16 @@ The solutions are organized beautifully into a single folder setup. Thanks to Gi
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0707-design-linked-list](https://github.com/RonitkumarSoni/leetcode/tree/main/0707-design-linked-list/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/RonitkumarSoni/leetcode/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/RonitkumarSoni/leetcode/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/RonitkumarSoni/leetcode/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
 <!---LeetCode Topics End-->
