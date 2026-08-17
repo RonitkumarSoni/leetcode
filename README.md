@@ -203,6 +203,7 @@ The solutions are organized beautifully into a single folder setup. Thanks to Gi
 | [1075-project-employees-i](https://github.com/RonitkumarSoni/leetcode/tree/main/1075-project-employees-i/) | Easy |
 | [1148-article-views-i](https://github.com/RonitkumarSoni/leetcode/tree/main/1148-article-views-i/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/RonitkumarSoni/leetcode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/RonitkumarSoni/leetcode/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
