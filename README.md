@@ -109,6 +109,7 @@ The solutions are organized beautifully into a single folder setup. Thanks to Gi
 | [0594-longest-harmonious-subsequence](https://github.com/RonitkumarSoni/leetcode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/RonitkumarSoni/leetcode/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0896-monotonic-array](https://github.com/RonitkumarSoni/leetcode/tree/main/0896-monotonic-array/) | Easy |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/RonitkumarSoni/leetcode/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/RonitkumarSoni/leetcode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1313-decompress-run-length-encoded-list](https://github.com/RonitkumarSoni/leetcode/tree/main/1313-decompress-run-length-encoded-list/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/RonitkumarSoni/leetcode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
@@ -123,6 +124,7 @@ The solutions are organized beautifully into a single folder setup. Thanks to Gi
 | [0016-3sum-closest](https://github.com/RonitkumarSoni/leetcode/tree/main/0016-3sum-closest/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/RonitkumarSoni/leetcode/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/RonitkumarSoni/leetcode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/RonitkumarSoni/leetcode/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -155,10 +157,12 @@ The solutions are organized beautifully into a single folder setup. Thanks to Gi
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/RonitkumarSoni/leetcode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/RonitkumarSoni/leetcode/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/RonitkumarSoni/leetcode/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/RonitkumarSoni/leetcode/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
