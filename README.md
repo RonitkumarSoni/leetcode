@@ -114,6 +114,7 @@ The solutions are organized beautifully into a single folder setup. Thanks to Gi
 | [1019-next-greater-node-in-linked-list](https://github.com/RonitkumarSoni/leetcode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1313-decompress-run-length-encoded-list](https://github.com/RonitkumarSoni/leetcode/tree/main/1313-decompress-run-length-encoded-list/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/RonitkumarSoni/leetcode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/RonitkumarSoni/leetcode/tree/main/1827-minimum-operations-to-make-the-array-increasing/) | Easy |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/RonitkumarSoni/leetcode/tree/main/2176-count-equal-and-divisible-pairs-in-an-array/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/RonitkumarSoni/leetcode/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/RonitkumarSoni/leetcode/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
@@ -164,6 +165,7 @@ The solutions are organized beautifully into a single folder setup. Thanks to Gi
 | ------- | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/RonitkumarSoni/leetcode/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/RonitkumarSoni/leetcode/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/RonitkumarSoni/leetcode/tree/main/1827-minimum-operations-to-make-the-array-increasing/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
