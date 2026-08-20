@@ -53,6 +53,7 @@ The solutions are organized beautifully into a single folder setup. Thanks to Gi
 | [0015-3sum](https://github.com/RonitkumarSoni/leetcode/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/RonitkumarSoni/leetcode/tree/main/0016-3sum-closest/) | Medium |
 | [0086-partition-list](https://github.com/RonitkumarSoni/leetcode/tree/main/0086-partition-list/) | Medium |
+| [0141-linked-list-cycle](https://github.com/RonitkumarSoni/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0143-reorder-list](https://github.com/RonitkumarSoni/leetcode/tree/main/0143-reorder-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/RonitkumarSoni/leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0165-compare-version-numbers](https://github.com/RonitkumarSoni/leetcode/tree/main/0165-compare-version-numbers/) | Medium |
@@ -146,6 +147,7 @@ The solutions are organized beautifully into a single folder setup. Thanks to Gi
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/RonitkumarSoni/leetcode/tree/main/0138-copy-list-with-random-pointer/) | Medium |
+| [0141-linked-list-cycle](https://github.com/RonitkumarSoni/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/RonitkumarSoni/leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/RonitkumarSoni/leetcode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/RonitkumarSoni/leetcode/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
@@ -219,6 +221,7 @@ The solutions are organized beautifully into a single folder setup. Thanks to Gi
 | [0086-partition-list](https://github.com/RonitkumarSoni/leetcode/tree/main/0086-partition-list/) | Medium |
 | [0092-reverse-linked-list-ii](https://github.com/RonitkumarSoni/leetcode/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/RonitkumarSoni/leetcode/tree/main/0138-copy-list-with-random-pointer/) | Medium |
+| [0141-linked-list-cycle](https://github.com/RonitkumarSoni/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0143-reorder-list](https://github.com/RonitkumarSoni/leetcode/tree/main/0143-reorder-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/RonitkumarSoni/leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/RonitkumarSoni/leetcode/tree/main/0206-reverse-linked-list/) | Easy |
@@ -264,4 +267,8 @@ The solutions are organized beautifully into a single folder setup. Thanks to Gi
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/RonitkumarSoni/leetcode/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/RonitkumarSoni/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->
