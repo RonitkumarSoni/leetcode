@@ -60,6 +60,7 @@ The solutions are organized beautifully into a single folder setup. Thanks to Gi
 | [0287-find-the-duplicate-number](https://github.com/RonitkumarSoni/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0443-string-compression](https://github.com/RonitkumarSoni/leetcode/tree/main/0443-string-compression/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/RonitkumarSoni/leetcode/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/RonitkumarSoni/leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/RonitkumarSoni/leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -226,6 +227,7 @@ The solutions are organized beautifully into a single folder setup. Thanks to Gi
 | [0328-odd-even-linked-list](https://github.com/RonitkumarSoni/leetcode/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/RonitkumarSoni/leetcode/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0707-design-linked-list](https://github.com/RonitkumarSoni/leetcode/tree/main/0707-design-linked-list/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/RonitkumarSoni/leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1019-next-greater-node-in-linked-list](https://github.com/RonitkumarSoni/leetcode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/RonitkumarSoni/leetcode/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/RonitkumarSoni/leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
