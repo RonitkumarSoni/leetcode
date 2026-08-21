@@ -211,6 +211,7 @@ The solutions are organized beautifully into a single folder setup. Thanks to Gi
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/RonitkumarSoni/leetcode/tree/main/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
 | [1075-project-employees-i](https://github.com/RonitkumarSoni/leetcode/tree/main/1075-project-employees-i/) | Easy |
 | [1148-article-views-i](https://github.com/RonitkumarSoni/leetcode/tree/main/1148-article-views-i/) | Easy |
+| [1667-fix-names-in-a-table](https://github.com/RonitkumarSoni/leetcode/tree/main/1667-fix-names-in-a-table/) | Easy |
 | [1683-invalid-tweets](https://github.com/RonitkumarSoni/leetcode/tree/main/1683-invalid-tweets/) | Easy |
 | [1729-find-followers-count](https://github.com/RonitkumarSoni/leetcode/tree/main/1729-find-followers-count/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/RonitkumarSoni/leetcode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
