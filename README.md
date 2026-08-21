@@ -80,6 +80,7 @@ The solutions are organized beautifully into a single folder setup. Thanks to Gi
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/RonitkumarSoni/leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [1688-count-of-matches-in-tournament](https://github.com/RonitkumarSoni/leetcode/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/RonitkumarSoni/leetcode/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/RonitkumarSoni/leetcode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
@@ -106,6 +107,7 @@ The solutions are organized beautifully into a single folder setup. Thanks to Gi
 | ------- | ------- |
 | [0015-3sum](https://github.com/RonitkumarSoni/leetcode/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/RonitkumarSoni/leetcode/tree/main/0016-3sum-closest/) | Medium |
+| [0054-spiral-matrix](https://github.com/RonitkumarSoni/leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/RonitkumarSoni/leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/RonitkumarSoni/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0318-maximum-product-of-word-lengths](https://github.com/RonitkumarSoni/leetcode/tree/main/0318-maximum-product-of-word-lengths/) | Medium |
@@ -143,6 +145,7 @@ The solutions are organized beautifully into a single folder setup. Thanks to Gi
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/RonitkumarSoni/leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/RonitkumarSoni/leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
