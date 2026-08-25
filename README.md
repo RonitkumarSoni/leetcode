@@ -110,6 +110,7 @@ The solutions are organized beautifully into a single folder setup. Thanks to Gi
 | [0053-maximum-subarray](https://github.com/RonitkumarSoni/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/RonitkumarSoni/leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/RonitkumarSoni/leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0169-majority-element](https://github.com/RonitkumarSoni/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/RonitkumarSoni/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0318-maximum-product-of-word-lengths](https://github.com/RonitkumarSoni/leetcode/tree/main/0318-maximum-product-of-word-lengths/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/RonitkumarSoni/leetcode/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
@@ -130,6 +131,7 @@ The solutions are organized beautifully into a single folder setup. Thanks to Gi
 | ------- | ------- |
 | [0015-3sum](https://github.com/RonitkumarSoni/leetcode/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/RonitkumarSoni/leetcode/tree/main/0016-3sum-closest/) | Medium |
+| [0169-majority-element](https://github.com/RonitkumarSoni/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/RonitkumarSoni/leetcode/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/RonitkumarSoni/leetcode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/RonitkumarSoni/leetcode/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
@@ -155,6 +157,7 @@ The solutions are organized beautifully into a single folder setup. Thanks to Gi
 | [0141-linked-list-cycle](https://github.com/RonitkumarSoni/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/RonitkumarSoni/leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/RonitkumarSoni/leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0169-majority-element](https://github.com/RonitkumarSoni/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/RonitkumarSoni/leetcode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/RonitkumarSoni/leetcode/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/RonitkumarSoni/leetcode/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
@@ -168,6 +171,7 @@ The solutions are organized beautifully into a single folder setup. Thanks to Gi
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/RonitkumarSoni/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/RonitkumarSoni/leetcode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/RonitkumarSoni/leetcode/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 ## Greedy
@@ -289,4 +293,9 @@ The solutions are organized beautifully into a single folder setup. Thanks to Gi
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/RonitkumarSoni/leetcode/tree/main/0053-maximum-subarray/) | Medium |
+| [0169-majority-element](https://github.com/RonitkumarSoni/leetcode/tree/main/0169-majority-element/) | Easy |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/RonitkumarSoni/leetcode/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
