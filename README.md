@@ -98,6 +98,7 @@ The solutions are organized beautifully into a single folder setup. Thanks to Gi
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/RonitkumarSoni/leetcode/tree/main/0002-add-two-numbers/) | Medium |
+| [0048-rotate-image](https://github.com/RonitkumarSoni/leetcode/tree/main/0048-rotate-image/) | Medium |
 | [1025-divisor-game](https://github.com/RonitkumarSoni/leetcode/tree/main/1025-divisor-game/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/RonitkumarSoni/leetcode/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1688-count-of-matches-in-tournament](https://github.com/RonitkumarSoni/leetcode/tree/main/1688-count-of-matches-in-tournament/) | Easy |
@@ -107,6 +108,7 @@ The solutions are organized beautifully into a single folder setup. Thanks to Gi
 | ------- | ------- |
 | [0015-3sum](https://github.com/RonitkumarSoni/leetcode/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/RonitkumarSoni/leetcode/tree/main/0016-3sum-closest/) | Medium |
+| [0048-rotate-image](https://github.com/RonitkumarSoni/leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/RonitkumarSoni/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/RonitkumarSoni/leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/RonitkumarSoni/leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
@@ -148,6 +150,7 @@ The solutions are organized beautifully into a single folder setup. Thanks to Gi
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/RonitkumarSoni/leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/RonitkumarSoni/leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/RonitkumarSoni/leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 ## Hash Table
