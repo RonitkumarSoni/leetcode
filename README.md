@@ -67,6 +67,7 @@ The solutions are organized beautifully into a single folder setup. Thanks to Gi
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/RonitkumarSoni/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/RonitkumarSoni/leetcode/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0038-count-and-say](https://github.com/RonitkumarSoni/leetcode/tree/main/0038-count-and-say/) | Medium |
 | [0071-simplify-path](https://github.com/RonitkumarSoni/leetcode/tree/main/0071-simplify-path/) | Medium |
@@ -156,6 +157,7 @@ The solutions are organized beautifully into a single folder setup. Thanks to Gi
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/RonitkumarSoni/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/RonitkumarSoni/leetcode/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/RonitkumarSoni/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/RonitkumarSoni/leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
@@ -169,6 +171,7 @@ The solutions are organized beautifully into a single folder setup. Thanks to Gi
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/RonitkumarSoni/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/RonitkumarSoni/leetcode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/RonitkumarSoni/leetcode/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Counting
