@@ -119,6 +119,7 @@ The solutions are organized beautifully into a single folder setup. Thanks to Gi
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/RonitkumarSoni/leetcode/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/RonitkumarSoni/leetcode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/RonitkumarSoni/leetcode/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
+| [0817-linked-list-components](https://github.com/RonitkumarSoni/leetcode/tree/main/0817-linked-list-components/) | Medium |
 | [0896-monotonic-array](https://github.com/RonitkumarSoni/leetcode/tree/main/0896-monotonic-array/) | Easy |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/RonitkumarSoni/leetcode/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/RonitkumarSoni/leetcode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
@@ -165,6 +166,7 @@ The solutions are organized beautifully into a single folder setup. Thanks to Gi
 | [0169-majority-element](https://github.com/RonitkumarSoni/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/RonitkumarSoni/leetcode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/RonitkumarSoni/leetcode/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
+| [0817-linked-list-components](https://github.com/RonitkumarSoni/leetcode/tree/main/0817-linked-list-components/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/RonitkumarSoni/leetcode/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/RonitkumarSoni/leetcode/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/RonitkumarSoni/leetcode/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
@@ -253,6 +255,7 @@ The solutions are organized beautifully into a single folder setup. Thanks to Gi
 | [0328-odd-even-linked-list](https://github.com/RonitkumarSoni/leetcode/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/RonitkumarSoni/leetcode/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0707-design-linked-list](https://github.com/RonitkumarSoni/leetcode/tree/main/0707-design-linked-list/) | Medium |
+| [0817-linked-list-components](https://github.com/RonitkumarSoni/leetcode/tree/main/0817-linked-list-components/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/RonitkumarSoni/leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1019-next-greater-node-in-linked-list](https://github.com/RonitkumarSoni/leetcode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/RonitkumarSoni/leetcode/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
