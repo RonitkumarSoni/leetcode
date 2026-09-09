@@ -109,6 +109,7 @@ The solutions are organized beautifully into a single folder setup. Thanks to Gi
 | ------- | ------- |
 | [0015-3sum](https://github.com/RonitkumarSoni/leetcode/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/RonitkumarSoni/leetcode/tree/main/0016-3sum-closest/) | Medium |
+| [0033-search-in-rotated-sorted-array](https://github.com/RonitkumarSoni/leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0048-rotate-image](https://github.com/RonitkumarSoni/leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/RonitkumarSoni/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/RonitkumarSoni/leetcode/tree/main/0054-spiral-matrix/) | Medium |
@@ -142,6 +143,7 @@ The solutions are organized beautifully into a single folder setup. Thanks to Gi
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/RonitkumarSoni/leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/RonitkumarSoni/leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/RonitkumarSoni/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Bit Manipulation
