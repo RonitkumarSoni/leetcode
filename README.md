@@ -50,6 +50,7 @@ The solutions are organized beautifully into a single folder setup. Thanks to Gi
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/RonitkumarSoni/leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/RonitkumarSoni/leetcode/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/RonitkumarSoni/leetcode/tree/main/0016-3sum-closest/) | Medium |
 | [0086-partition-list](https://github.com/RonitkumarSoni/leetcode/tree/main/0086-partition-list/) | Medium |
@@ -107,6 +108,7 @@ The solutions are organized beautifully into a single folder setup. Thanks to Gi
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/RonitkumarSoni/leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/RonitkumarSoni/leetcode/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/RonitkumarSoni/leetcode/tree/main/0016-3sum-closest/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/RonitkumarSoni/leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
@@ -187,6 +189,7 @@ The solutions are organized beautifully into a single folder setup. Thanks to Gi
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/RonitkumarSoni/leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/RonitkumarSoni/leetcode/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/RonitkumarSoni/leetcode/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/RonitkumarSoni/leetcode/tree/main/1827-minimum-operations-to-make-the-array-increasing/) | Easy |
